@@ -124,4 +124,8 @@
   [role="button"]:not([disabled]) {
     @apply cursor-pointer;
   }
+
+  .cl-internal-1dauvpw {
+    @apply hidden;
+  }
 }
